@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-repositorio de prueba.
+este proyecto  es una prueba de como clonar un reposito desde git.
